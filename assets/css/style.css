@@ -1,9 +1,9 @@
 /*Common*/
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
 .font-size15 {
     font-size: 15px !important;
 }
@@ -140,7 +140,7 @@ html {
     margin-top: 46.5px;
     position: relative;
     padding-top: 50%;
-    background: url('/assets/image/sliders/slider1.jpg') top center / cover no-repeat;
+    background: url('../image/sliders/slider1.jpg') top center / cover no-repeat;
 }
 .text-content {
     position: absolute;
